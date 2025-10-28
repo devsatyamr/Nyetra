@@ -1,0 +1,3 @@
+add_user('admin', 'Admin@123', 'Admin')
+    add_user('operator1', 'Operator@123', 'Operator')
+    add_user('viewer1', 'Viewer@123', 'Viewer')

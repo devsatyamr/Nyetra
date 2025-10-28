@@ -1,0 +1,41 @@
+# CCTV System Requirements
+
+# Core dependencies
+numpy==1.26.4
+opencv-python==4.8.1.78
+Pillow==10.0.0
+psutil>=5.8.0
+
+# Security and cryptography
+cryptography==41.0.7
+pyOpenSSL>=23.0.0
+
+# Authentication and tokens
+pyotp==2.9.0
+PyJWT==2.8.0
+
+# QR code generation
+qrcode==7.4.2
+
+# HTTP requests
+requests==2.31.0
+
+# PDF generation and plotting
+matplotlib>=3.7.0
+
+# Database (PostgreSQL support - optional)
+psycopg2-binary==2.9.9
+
+# Firebase integration (optional)
+firebase-admin==6.2.0
+
+# AI/ML for person detection
+torch>=2.0.0
+torchvision>=0.15.0
+
+# YOLO for real-time object detection with bounding boxes
+ultralytics>=8.0.0
+
+# Note: tkinter is included with Python standard library
+
+# Note: tkinter is included with Python standard library

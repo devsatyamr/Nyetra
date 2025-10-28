@@ -1,0 +1,14 @@
+# Requirements for CCTV Management System - Executable Build
+numpy==1.26.4
+opencv-python==4.8.1.78
+Pillow==10.0.0
+cryptography==41.0.7
+pyotp==2.9.0
+qrcode==7.4.2
+PyJWT==2.8.0
+pyOpenSSL>=23.0.0
+psutil>=5.9.0
+PyInstaller>=6.0.0
+
+# Note: tkinter is included with Python, sqlite3 is built-in
+# Removed duplicates and unnecessary packages for this build

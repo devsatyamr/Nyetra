@@ -1,0 +1,65 @@
+# Build and Distribution directories
+/obj/
+/build/
+/dist/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+/venv/
+/env/
+.venv/
+.env/
+
+# Test files
+test*.py
+*_test.py
+*test.py
+tests/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Temporary files
+*.temp
+temp/
+tmp/
+
+# Database files (if not needed in repo)
+*.db
+*.sqlite
+*.sqlite3
+
+# Keys and certificates (security)
+# *.key
+# *.pem
+# *.ct
+# encryption.keyr
+
+# Video files (too large for repo)
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+*.flv
+*.webm
+*.m4v
+
+# PDF reports
+*_report_*.pdf
+face_recognition_report_*.pdf
+face_recognition_report_*.txt

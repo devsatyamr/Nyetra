@@ -1,0 +1,42 @@
+🛡️  DEFENSE CCTV SYSTEM - BACKUP CODE SETUP
+==================================================
+🔐 Setting up backup codes...
+🔑 admin already has 3 backup codes
+🔑 operator1 already has 3 backup codes
+🔑 viewer1 already has 3 backup codes
+
+============================================================
+🛡️  DEFENSE CCTV BACKUP CODES
+============================================================
+
+👤 USER: ADMIN
+   Role: Admin
+   Backup Codes:
+   1. 3NQNi7zQKpI
+   2. D55SYMLKeJA
+   3. rze_jcBgIGo
+
+👤 USER: OPERATOR1
+   Role: Operator
+   Backup Codes:
+   1. FSPx6Z_quIA
+   2. MOnaTrDDDI8
+   3. BnPDTSxR6OA
+
+👤 USER: VIEWER1
+   Role: Viewer
+   Backup Codes:
+   1. yF9QfwAfdIo
+   2. Bpc5tnRFprM
+   3. uo3SwTj_4ks
+
+============================================================
+⚠️  IMPORTANT SECURITY NOTICES:
+⚠️  • Save these codes securely!
+⚠️  • Each code can only be used once!
+⚠️  • Use backup codes when OTP is unavailable!
+⚠️  • Check 'Use backup code' option in login!
+============================================================
+
+✅ Backup codes setup complete!
+🔐 You can now login using backup codes instead of OTP when needed.
