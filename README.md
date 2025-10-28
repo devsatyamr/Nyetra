@@ -122,7 +122,7 @@ Our platform implements a **Zero Trust Network Architecture** with the following
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd cctv-security-platform
+cd Nyetra
 
 # Create virtual environment
 python -m venv venv
