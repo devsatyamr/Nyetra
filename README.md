@@ -226,9 +226,9 @@ This software complies with applicable data protection regulations and export co
 
 ### **Contact Information**
 For enterprise deployment, security partnerships, or technical support:
-- **Email**: [Your Contact Email]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Project Repository**: [Repository URL]
+- **Email**: devsatyamr@gmail.com
+- **LinkedIn**: https://linkedin.com/in/devsatyamr
+- **X(Formely twitter)**: https://www.twitter.com/devatyamr
 
 ---
 
