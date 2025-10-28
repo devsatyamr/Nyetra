@@ -44,10 +44,11 @@ tmp/
 *.sqlite3
 
 # Keys and certificates (security)
-# *.key
-# *.pem
-# *.ct
-# encryption.keyr
+*.key
+*.pem
+*.ct
+encryption.key
+bck.txt
 
 # Video files (too large for repo)
 *.mp4
